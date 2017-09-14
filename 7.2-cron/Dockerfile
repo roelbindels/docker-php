@@ -1,5 +1,5 @@
 FROM edyan/php:7.2
-MAINTAINER Emmanuel Dyan <emmanuel.dyan@inetprocess.com>
+MAINTAINER Roel Bindels <roel.bindels@inetprocess.com>
 
 # Upgrade the system and Install Cron
 RUN DEBIAN_FRONTEND=noninteractive apt-get update && \
