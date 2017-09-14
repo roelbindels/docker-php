@@ -1,6 +1,5 @@
 [![Layers](https://images.microbadger.com/badges/image/roelbindels/php-cron.svg)](https://microbadger.com/images/roelbindels/php-cron "Get your own image badge on microbadger.com")
-
-[![Docker Pulls](https://img.shields.io/docker/pulls/edyan/php.svg)](https://hub.docker.com/r/edyan/php/)
+[![Docker Pulls](https://img.shields.io/docker/pulls/roelbindels/php-cron.svg)](https://hub.docker.com/r/roelbindels/php-cron/)
 
 # PHP FPM Docker Image
 Docker Hub: https://hub.docker.com/r/edyan/php
