@@ -1,4 +1,4 @@
-FROM edyan/php:5.6
+FROM edyan/php:7.2
 MAINTAINER Emmanuel Dyan <emmanuel.dyan@inetprocess.com>
 
 # Upgrade the system and Install Cron
