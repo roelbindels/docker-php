@@ -1,4 +1,5 @@
-[![Layers](https://images.microbadger.com/badges/image/edyan/php.svg)](https://microbadger.com/images/edyan/php "Get your own image badge on microbadger.com")
+[![Layers](https://images.microbadger.com/badges/image/roelbindels/php-cron.svg)](https://microbadger.com/images/roelbindels/php-cron "Get your own image badge on microbadger.com")
+
 [![Docker Pulls](https://img.shields.io/docker/pulls/edyan/php.svg)](https://hub.docker.com/r/edyan/php/)
 
 # PHP FPM Docker Image
